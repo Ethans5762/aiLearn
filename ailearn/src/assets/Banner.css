@@ -1,0 +1,79 @@
+.BDiv1 {
+	padding-left: 32px;
+	padding-right: 32px;
+	padding-top: 22px;
+	padding-bottom: 22px;
+	margin-left: 22px;
+	margin-right: 22px;
+	width: auto;
+	background-color: #080404;
+	color: #fff;
+}
+
+.BDiv2 {
+	margin-top: 80px;
+}
+
+.BDiv3 {
+	font-size: 105px;
+	font-family: "Saira Condensed";
+	font-weight: 300;
+	background-color: springgreen;
+}
+
+.BDiv4 {
+	margin-top: 32px;
+	margin-bottom: 48px;
+	font-size: 18px;
+	font-family: "Roboto Condensed";
+	font-weight: 400;
+}
+
+.BDiv5 {}
+
+.BDiv6 {
+	margin-top: 80px;
+	margin-bottom: 80px;
+	font-size: 18px;
+	font-family: "Roboto Condensed";
+	font-weight: 400;
+}
+
+.BDiv7 {
+	display: inline-block;
+	border-bottom-style: solid;
+	border-bottom-color: #fff;
+}
+
+.BDiv7:hover { 
+	border: #080404; 
+	border-bottom-style: solid;
+}
+
+.BDiv8 {
+	display: inline-block;
+	margin-left: 24px;
+	border-style: solid;
+	border-color: #fff;
+}
+
+.BDiv8:hover { 
+	border: #080404; 
+	border-style: solid;
+}
+
+
+
+
+.BText1 {
+	max-height: 105px;
+	white-space: normal;
+}
+
+.BText2 {
+	max-height: 105px;
+}
+
+.BText3 {
+	max-height: 105px;
+}

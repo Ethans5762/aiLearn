@@ -1,0 +1,96 @@
+.FDiv1 {
+	padding-left: 32px;
+	padding-right: 32px;
+	padding-top: 12px;
+	margin-left: 22px;
+	margin-right: 22px;
+	width: auto;
+	background-color: #080404;
+	color: #fff;
+	border-top-color: #fff;
+	border-top-style: solid;
+}
+
+.FDiv2 {}
+
+.FDiv3 {
+	font-size: 18px;
+	font-family: "Roboto Condensed";
+	font-weight: 400;
+}
+
+.FDiv4 { /*Img, Twitter, Github, Linkedin*/
+	width: fit-content;
+}
+
+.FDiv5 { /*Img*/
+	min-width: 123px;
+	max-width: 123px;
+	min-height: 64px;
+	max-height: 64px;
+}
+
+.FDiv6 { /*Twitter, Github, Linkedin*/
+	padding-top: 12px;
+	border-top-color: #fff;
+	border-top-style: solid;
+}
+
+.FDiv7 { /*Menu*/
+	margin-top: 32px;
+}
+
+.FDiv8 { /*All Rights*/
+	min-height: 51px;
+	max-height: 51px;
+	margin-top: 32px;
+	padding-top: 32px;
+	border-top-color: #6B6B6B;
+	border-top-style: solid;
+}
+
+.FDiv9 { /*Products*/
+	display: inline-block;
+	min-width: 190px;
+	max-width: 190px;
+	margin-left: 24px;
+	vertical-align: top;
+}
+
+.FBtn1 { /*Twitter*/
+	margin-bottom: 24px;
+	margin-right: 24px;
+	display: inline-block;
+}
+
+.FBtn1A { /*Twitter*/
+	margin-bottom: 24px;
+	display: inline-block;
+}
+
+.FBtn2 {
+	font-weight: 700;
+	min-height: 25px;
+	max-height: 25px;
+}
+
+.FBtn3 {
+	margin-top: 1px;
+	min-height: 25px;
+	max-height: 25px;
+}
+
+.FText1 {
+	border-bottom-color: #080404;
+	border-bottom-style: solid;
+}
+
+.FText1:hover { 
+	border-bottom: #fff; 
+	border-bottom-style: solid;
+}
+
+.FText2 {
+	vertical-align: bottom;
+	font-size: 14px;
+}
